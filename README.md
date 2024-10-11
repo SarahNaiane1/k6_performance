@@ -37,11 +37,7 @@
 
 [Node.js](https://nodejs.org/) v16 ou superior para executar.
 
-Para liberar o gerenciador de pacotes Yarn:
 
-```
-corepack enable
-```
 
 Execute os comandos abaixo para instalar das dependências do projeto:
 
